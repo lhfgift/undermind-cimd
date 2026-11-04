@@ -1,0 +1,18 @@
+{
+  "client_id": "https://lhfgift.github.io/undermind-cimd/client-metadata.json",
+  "client_name": "WorkBuddy Undermind Bridge",
+  "client_uri": "https://www.undermind.ai/",
+  "redirect_uris": [
+    "http://127.0.0.1:33441/oauth/callback",
+    "http://localhost:33441/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
